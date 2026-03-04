@@ -42,12 +42,12 @@ Tools:
 
 ## Project Structure
 
-FUTURE_FS_01/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+FUTURE_FS_01
+
+-> index.html
+-> style.css
+-> script.js
+-> README.md
 
 ---
 
